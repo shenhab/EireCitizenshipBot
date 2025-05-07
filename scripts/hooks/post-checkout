@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Ensure push.autoSetupRemote is always enabled
+git config push.autoSetupRemote true
+
+echo "✅ Git push.autoSetupRemote has been enabled for this repository!"
+

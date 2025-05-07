@@ -1,0 +1,48 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+sqlalchemy = "*"
+flask-sqlalchemy = "*"
+requests = "*"
+flask-restful = "*"
+psycopg2-binary = "*"
+authlib = "*"
+flask-session = "*"
+python-dotenv = "*"
+pipfile = "*"
+flask-login = "*"
+gunicorn = "*"
+selenium = "*"
+tweepy = "*"
+pandas = "*"
+plotly = "*"
+football-data-api = "*"
+soccerdata = "*"
+soccerapi = "*"
+pipenv-shebang = "*"
+html5lib = "*"
+bs4 = "*"
+adjusttext = "*"
+pylint = "*"
+autopep8 = "*"
+black = "*"
+beautifulsoup4 = "*"
+webdriver-manager = "*"
+arabic-reshaper = "*"
+googletrans = "*"
+pytest = "*"
+pre-commit = "*"
+
+[dev-packages]
+pytest = "*"
+black = "*"
+isort = "*"
+pylint = "*"
+pre-commit = "*"
+
+[requires]
+python_version = "3.11"
