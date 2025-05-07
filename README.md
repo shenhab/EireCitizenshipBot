@@ -1,4 +1,4 @@
-# App-Name 🧠📊
+# EireCitizenshipBot 🧠📊
 
 A starter Python project powered by `pipenv`, `pytest`, and `pre-commit`.  
 It includes Git hook setup and environment initialization via a single script.
